@@ -7,3 +7,4 @@ plotly
 flask
 scikit-learn
 pymysql
+nltk
